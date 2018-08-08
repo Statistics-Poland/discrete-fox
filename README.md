@@ -7,7 +7,7 @@
 # Installation
 TapTheMap is available in Google Play: https://play.google.com/store/apps/details?id=pl.gov.stat.tapthemap
 
-It can be install directly from APK file (app-release.apk) as well - please follow the instructions: https://www.wikihow.tech/Install-APK-Files-on-Android
+It can be installed directly from APK file (app-release.apk) as well - please follow the instructions: https://www.wikihow.tech/Install-APK-Files-on-Android
 
 # Marker to trigger augmented reality map
 To play the game a special marker is required. It should be downloaded and printed form this repository (tap-the-map/tree/master/app/src/main/assets) or from application website: https://hackathon.stat.gov.pl/aplikacje/tap-the-map. The marker is available in two versions: colour or black-and-white.
